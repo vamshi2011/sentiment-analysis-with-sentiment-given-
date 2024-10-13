@@ -43,7 +43,7 @@ The input is a sentence and based on the model training data , it classifies the
    ```bash
    git clone https://github.com/vamshi2011/sentiment-analysis-with-sentiment-given-.git
    ```
-2. ** Launch the application**
+2. **Launch the application**
    ```bash
    python Copy of sentiment_analysis_internzlearn.ipynb
    ```
